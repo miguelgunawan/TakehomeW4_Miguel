@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4 takehome MIguel", "W4 takehome MIguel\W4 takehome MIguel.csproj", "{756D2788-F9BF-4297-8661-510490269AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756D2788-F9BF-4297-8661-510490269AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756D2788-F9BF-4297-8661-510490269AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756D2788-F9BF-4297-8661-510490269AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756D2788-F9BF-4297-8661-510490269AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14981935-7CCB-457A-960E-99C81E07A936}
+	EndGlobalSection
+EndGlobal
